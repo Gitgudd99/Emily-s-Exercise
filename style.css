@@ -1,0 +1,15 @@
+.bg-yellow {
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: yellow;
+}
+#Summary {
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+td {
+    border: 2px solid black;
+    color: rgb(25, 82, 23);
+    font-style: oblique;
+}
